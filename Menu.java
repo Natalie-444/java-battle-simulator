@@ -70,8 +70,7 @@ public class Menu {
                 System.out.println("╚═══════════════════════════╝");
                 System.out.println("Code developed by Natalie Rodriguez.");
                 System.out.println("December 5, 2025.");
-                System.out.println("Sources: CS1301 Unit 1-3 Material, Assisted by geeksforgeeks.");  //geeksforgeeks helped my further understanding in file scanner, random and recursive methods
-
+                
             } else if (input.equals("7")) {     
         //seventh option from main menu
                 System.out.println("Thank you for playing! Until next time!");     //end game message

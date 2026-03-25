@@ -47,27 +47,6 @@ Battles continue round by round until one character's HP reaches zero.
 
 ---
 
-## How to Run
-
-1. Clone the repository
-
-    git clone https://github.com/Natalie-444/java-battle-simulator.git
-    cd java-battle-simulator
-
-2. Compile
-
-    javac *.java
-
-3. Run
-
-    java Menu
-
-4. Follow the prompts to select a universe, choose a character, and pick a game mode.
-
-Requires Java 8 or higher. No external libraries needed.
-
----
-
 ## Project Structure
 
     java-battle-simulator/
